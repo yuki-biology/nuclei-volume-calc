@@ -1,0 +1,6 @@
+numpy
+pillow
+opencv-python
+connected-components-3d
+oiffile
+matplotlib
